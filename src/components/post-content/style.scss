@@ -1,6 +1,5 @@
 @use '../../styles/markdown-style'as *;
 @use 'prismjs/themes/prism-tomorrow'as *;
-import 'katex/dist/katex.min.css';
 
 .post-content {
   display: flex;
