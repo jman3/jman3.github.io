@@ -6,7 +6,7 @@ module.exports = {
   ogImage: `/og-image.png`, // Path to your in the 'static' folder
   comments: {
     utterances: {
-      repo: ``, // `jman3/jman3.github.io`,
+      repo: `jman3/jman3.github.io`, // `jman3/jman3.github.io`,
     },
   },
   ga: '0', // Google Analytics Tracking ID
